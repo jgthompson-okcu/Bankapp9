@@ -1,6 +1,5 @@
 package Bankapp8;
 
-
 import SQL.SQLDatabase;
 import SQL.SQLMessageRecord;
 import SQL.SQLProfileRecord;
@@ -8,7 +7,6 @@ import SQL.SQLTransactionRecord;
 import SQL.Utils;
 import java.util.ArrayList;
 import java.util.Scanner;
-
 
 
 public class Bankapp8 {
