@@ -64,7 +64,7 @@ public class Bankapp8 {
 		    msg = "  00 quit\n"
    		        + "  01 log in\n"
 			+ "  14 create account\n"
-			    + " 91 launch newframe gui";
+			+ "  91 launch newframe gui";
 		}
 			    
 		int which;
